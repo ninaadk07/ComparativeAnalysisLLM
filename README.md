@@ -11,7 +11,7 @@ The structure of this GitHub repository is as follows:
 
 -> Experiment1.ipynb, Experiment2.ipynb, and Experiment3.ipynb contain the same Jupyter notebook files with small datasets for both training and evaluation that are quick and efficient to run, however with significantly less accurate results.
 
-None of these files will run as currently provided as they rely on a secret API key for each LLM - if wish to run, please email me (zcabkul@ucl.ac.uk) for these API keys.
+None of these files will run as currently provided as they rely on a secret API key for each LLM - if wish to run, please email me (ninaad2004@gmail.com) for these API keys.
 
 Then, please replace the empty values for the following variables with their respective API key:
 
